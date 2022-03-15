@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IMC-App</string>
+    <string name="text_massa">Qual a sua massa atual?</string>
+    <string name="text_title">Calculadora de IMC</string>
+    <string name="text_result">Seu IMC:</string>
+    <string name="text_classify">Sua Classificação:</string>
+    <string name="desc_massa">Informe sua massa corporal</string>
+    <string name="desc_altura">Informe sua altura</string>
+    <string name="text_btn_calcular">Calcular</string>
+    <string name="text_altura">E a sua altura?</string>
+</resources>
